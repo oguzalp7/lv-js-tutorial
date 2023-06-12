@@ -1,1 +1,2 @@
-ddgdg
+var first=" hello";
+document.write(first);
